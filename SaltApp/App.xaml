@@ -1,0 +1,10 @@
+﻿<Application
+    x:Class="SaltApp.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:client="using:SaltApp.Utils"
+    xmlns:local="using:SaltApp">
+    <Application.Resources>
+        <client:BoolToVisibilityConverter x:Key="BoolToVisibility" />
+    </Application.Resources>
+</Application>

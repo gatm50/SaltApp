@@ -1,0 +1,4 @@
+MainPackage=C:\Users\gatm_\Documents\Visual Studio 2015\Projects\SaltApp\SaltApp\bin\Release\SaltApp_1.1.0.0_Bundle\SaltApp_1.1.0.0_AnyCPU.appx
+SymbolPackage=C:\Users\gatm_\Documents\Visual Studio 2015\Projects\SaltApp\SaltApp\AppPackages\SaltApp_1.1.0.0_Test\SaltApp_1.1.0.0_AnyCPU.appxsym
+ResourcePack=C:\Users\gatm_\Documents\Visual Studio 2015\Projects\SaltApp\SaltApp\bin\Release\SaltApp_1.1.0.0_Bundle\SaltApp_1.1.0.0_scale-100.appx
+ResourcePack=C:\Users\gatm_\Documents\Visual Studio 2015\Projects\SaltApp\SaltApp\bin\Release\SaltApp_1.1.0.0_Bundle\SaltApp_1.1.0.0_scale-140.appx
